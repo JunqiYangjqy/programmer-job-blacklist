@@ -1,6 +1,6 @@
 # Job Blacklist for Programmers
 
-:snail:I'am also one of the netizens，the truth behinds should be judged by yourselves. I just simply collect some links, please don't be a troll even if you don't like i.Welcome to follow me at[微博](http://weibo.com/woniuppp)and propose [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) to participate in and maintain this list.
+:snail:I'am also one of the netizens，the truth behinds should be judged by yourselves. I just simply collect some links, please don't be a troll even if you don't like i.Welcome to follow me at[Weibo](http://weibo.com/woniuppp)and propose [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) to participate in and maintain this list.
 
 
 最近的事情 让我意识到 有些同行也是劣迹斑斑，需要记录一下 以后大家招聘注意
