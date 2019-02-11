@@ -1,73 +1,73 @@
 # Job Blacklist for Programmers
 
-:snail:I'am also one of the netizens，the truth behinds should be judged by yourselves. I just simply collect some links, please don't be a troll even if you don't like i.Welcome to follow me at[Weibo](http://weibo.com/woniuppp)and propose [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) to participate in and maintain this list.
+:snail:I'am also one of the netizens，the truth behinds should be judged by yourselves. I just simply collect some links, please don't be a troll even if you don't like it. Welcome to follow me at [Weibo](http://weibo.com/woniuppp) and propose [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) to participate and maintain this list.
 
 
-最近的事情 让我意识到 有些同行也是劣迹斑斑，需要记录一下 以后大家招聘注意
-
-
-
-### 写在前面
-
-谢谢 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues/20) 提醒
-
-首先，每一个程序猿，每一个公司都有黑点，但是如果把黑点放大了，黑名单就没存在的意义了。就拿这几个例子来吧
-
-1. 世纪佳缘认为白帽子，是违法的
-    * 虽然这件事是我怒开 repo 的[起因](https://www.zhihu.com/question/47775182)，但是他没有拖欠员工工资或不付工资
-
-2. 与创始人说的股份，那是个人争取的事
-    * 也没拖欠工资或不付工资
-    * 只是记住以后记得留个心眼，和合伙人不是只写代码就可以的
-3. 华为清理 34 岁以上员工，也是按照合同裁员，给赔偿
-    * 大公司更新换代，裁员没有任何问题，不裁员的公司早晚倒闭
-    * 华为也没有拖欠工资
-    * 只是我个人觉得，因为这件事，不想去华为工作 仅此而已，害怕到了34就被干掉
-4. 有些事情，应该被记住
+Some recent events have made me realised that some of our associates are notoriou, which needs to be recorded to remind others when recruiting.
 
 
 
+### Foreword
 
-### 程序员黑名单
-* [如何看待摩拜前端负责人小春（张耀春）疑似性骚扰女下属？](https://www.zhihu.com/question/289146339?from=groupmessage&isappinstalled=0&utm_medium=social&utm_oi=581028265741783040&utm_source=wechat_session)
+Thanks for [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues/20)'s reminding
 
-### 普通程序员
+At first, every programmer, every company has its improper places. However, if we excessive focus on these improper places, this black list will be meaningless. Taking these things as examples
 
-* 杭州有赞
-    - [如何看待“有赞”年会公开宣布996工作制？](https://www.zhihu.com/question/309428750)
-    - [有赞会得到法律的惩罚吗？](https://www.zhihu.com/question/310419862)
-    - [脉脉匿名区的有赞员工](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTk2MDc3MzAsImlhdCI6MTU0ODY1NDIxOX0.JSAyjakN-V_ZBQfjKxOl3MZKBcV7uLHyPZ1N-1mKXJI)
-* 便利蜂
-    - [年底组织数学考试，考试不及格就开除。](https://zhuanlan.zhihu.com/p/55856617)
-    - [脉脉匿名区的便利蜂](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTk3MzA4MjAsImlhdCI6MTU0ODY1NDI3OH0.UwkUFUh0wXgox30vxMCYyiRZW1dhzgWZKExIC6PT0V4)
+1. [Shijijiayuan](http://www.jiayuan.com/) considers the white hat hackers are illegal
+    * Although this is the [reason](https://www.zhihu.com/question/47775182) why I created this repo, but they didn't withhold or pay no wages.
 
-* 上海碧华信息技术有限公司
-    - [Android开发者的艰难讨薪路程](https://juejin.im/post/59bb3de35188257e7a427a6d)
-* 世纪佳缘
-    - [白帽事件](https://www.zhihu.com/question/47775182)
-* 西山居
-    - [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
+2. The shares that the founder said, that is what the individual should fight for.
+    * Also do not withhold or pay no wages
+    * Just remember to keep your eyes open, working with the partner is not just writing code.
+3. Huawei 'cleaned up' employees over the age of 34 is in accordance with the contract, and gives compensation.
+    * Large companies need to be renewed periodically, so layoffs have no problems. A company that doesn’t lay off people will close up sooner or later.
+    * Huawei also didn't withholding employees's salary
+    * It's just I personally feel that because of this, I don’t want to work for Huawei. That's it, just afraid being dismissed when I'm 34.
+4. Some things should be remembered
 
-* 百度无人车
-    - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
-* 触控科技
-    - [如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
-* 华为
-    - [华为清理 34 岁以上员工](https://www.zhihu.com/question/55618811)
-    - [任正非回应华为清理老员工：华为不养吃白饭的人](http://www.williamlong.info/archives/4894.html)
-* 音悦台
-    - [你为什么从音悦台离职？](https://www.zhihu.com/question/22461542)
-* 珠海时代互联
-    - [在珠海时代互联(优品科技)工作是怎样一番体验](https://www.zhihu.com/question/54987066)
-    - [第一次听说工资可以打八折](https://www.v2ex.com/t/348047#reply50)
-* 阿里钉钉
-    - [如何看待阿里「步数垫底罚站一周」](https://www.zhihu.com/question/57732499)
-* 4399
-    - [你为什么从 4399 离职？](https://www.zhihu.com/question/22048775)
-* 酷派
-    - [如何看待酷派在毕业入职前夕疑似解约 300 余名校招应届毕业生？](https://www.zhihu.com/question/59878776)  
-* 蛋壳公寓
-    - [我在蛋壳公寓的打工记录](https://zhuanlan.zhihu.com/p/27831054)
+
+
+
+### Black list for programmers
+* [How do you see the front-end leader of the Mobike (Yaochun Zhang) was suspected of sexual harassment?](https://www.zhihu.com/question/289146339?from=groupmessage&isappinstalled=0&utm_medium=social&utm_oi=581028265741783040&utm_source=wechat_session)
+
+### Ordinary Programmers
+
+* HangZhou [YouZan](https://www.youzan.com/)
+    - [How do you view the "You Zan" publicly announced the 996 working system in the annual meeting?](https://www.zhihu.com/question/309428750)
+    - [Will YouZan get the punishment of the law?](https://www.zhihu.com/question/310419862)
+    - [YouZan employees in the Anonymous area of MaiMai](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTk2MDc3MzAsImlhdCI6MTU0ODY1NDIxOX0.JSAyjakN-V_ZBQfjKxOl3MZKBcV7uLHyPZ1N-1mKXJI)
+* [BianLiFeng](https://www.bianlifeng.com/)
+    - [At the end of the year, a mathematics exam will be organized and if someone fails the exam he/she will be dismissed](https://zhuanlan.zhihu.com/p/55856617)
+    - [BianLiFeng employees in the Anonymous area of MaiMai](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTk3MzA4MjAsImlhdCI6MTU0ODY1NDI3OH0.UwkUFUh0wXgox30vxMCYyiRZW1dhzgWZKExIC6PT0V4)
+
+* Shanghai Beverly Information Technology Co., Ltd
+    - [Android developers' hard way to get their salary](https://juejin.im/post/59bb3de35188257e7a427a6d)
+* Shijijiayuan
+    - [White hat hacker event](https://www.zhihu.com/question/47775182)
+* [Xishanju](https://www.xishanju.com/)
+    - [How do you view Xishanju’s recent large-scale “persuaded dismissal”](https://www.zhihu.com/question/40739038)
+
+* Baidu Driverless Car
+    - [How do you think that in order to challenge the safety of Baidu driverless vehicles, Robin Li let the engineers become the 'stop sign' when he was on board?](https://www.zhihu.com/question/52768740?sort=created)
+* [ChuKond-INC](http://www.chukong-inc.com/)
+    - ~~[如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517) #Content was deleted~~
+* Huawei
+    - [Huawei dismiss the employees who are over 34-year-old](https://www.zhihu.com/question/55618811)
+    - [Zhengfei Ren responded the 'clean up' event: Huawei doesn't raise the empty suit](http://www.williamlong.info/archives/4894.html)
+* [YinYueTai](http://www.yinyuetai.com/)
+    - [Why did you leave from YinYueTai?](https://www.zhihu.com/question/22461542)
+* Shidaihulian Zhuhai
+    - [What is the experience of working in Shidaihulian?](https://www.zhihu.com/question/54987066)
+    - [The first time heard that salary can have a 20% off](https://www.v2ex.com/t/348047#reply50)
+* [Dingtalk](https://www.dingtalk.com/)
+    - [How do you view that penalty standing for a week for whom has the lowest 'moving steps'](https://www.zhihu.com/question/57732499)
+* [4399](http://my.4399.com/joinus/index.html)
+    - [Why did you leave from 4399?](https://www.zhihu.com/question/22048775)
+* [Coolpad](https://coolpad.us/)
+    - [What do you think that Coolpad is suspected of canceling more than 300 college graduates before their graduation?](https://www.zhihu.com/question/59878776)  
+* [Dankegongyu](https://www.dankegongyu.com/)
+    - [My working record in Dankegongyu](https://zhuanlan.zhihu.com/p/27831054)
 * 明星衣橱
     - [如何看待明星衣橱有钱搞VR试衣间，却拖欠员工工资达1年以上？](https://maimai.cn/article/topic?id=21179)
     - 腾讯新闻
