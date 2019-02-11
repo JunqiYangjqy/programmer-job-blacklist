@@ -68,10 +68,10 @@ At first, every programmer, every company has its improper places. However, if w
     - [What do you think that Coolpad is suspected of canceling more than 300 college graduates before their graduation?](https://www.zhihu.com/question/59878776)  
 * [Dankegongyu](https://www.dankegongyu.com/)
     - [My working record in Dankegongyu](https://zhuanlan.zhihu.com/p/27831054)
-* 明星衣橱
-    - [如何看待明星衣橱有钱搞VR试衣间，却拖欠员工工资达1年以上？](https://maimai.cn/article/topic?id=21179)
-    - 腾讯新闻
-        - [黄晓明投的明星衣橱被爆长期拖欠薪资 员工已求助法律解决](https://xw.qq.com/tech/20170904089402/TEC2017090408940200)
+* Mingxingyichu
+    - [How do you think that Mingxingyichu has money to build the VR fitting room, but withhold salary of the employee more than one year?](https://maimai.cn/article/topic?id=21179)
+    - Tencent News
+        - [Huang Xiaoming invested Mingxingyichu was reported for witholding salary for a long time. The employees had turned to the law to solve the problem.](https://xw.qq.com/tech/20170904089402/TEC2017090408940200)
         - [欠款欠薪没融资，明星衣橱老板要携小三跑路了？](https://xw.qq.com/cmsid/20170906A02KJP00)
     - 新浪财经
         - [明星衣橱生死局:拖欠员工工资 认为讨薪的是落井下石|融资|张晨|浙江永强_新浪财经_新浪网](http://finance.sina.com.cn/chanjing/gsnews/2017-09-26/doc-ifymenmt6937590.shtml)
