@@ -105,15 +105,15 @@ At first, every programmer, every company has its improper places. However, if w
 * 北京聚道科技有限公司
     - [汉东官场算什么，我被创投圈“暗算”的经历，沙书记都架不住](http://weibo.com/ttarticle/p/show?id=2309404098747628943708)
 
-### 不确定的
-* 神舟深圳总部
-    - [神舟电脑深圳总部是否常在校招之后出现大规模离职？为什么？如何评价？](http://www.zhihu.com/question/49016853?utm_source=qq&utm_medium=social)
+### Unsure
+* Shenzhou headquaters in Shenzhen
+    - [Is Shenzhou Computer's Shenzhen headquarters often has a large-scale resignation after school recruitment? Why? Any comments?](http://www.zhihu.com/question/49016853?utm_source=qq&utm_medium=social)
 
 
-### 选公司
+### Choosing companies
 
-* 建议大家在选择公司的时候摸摸底子 http://tianyancha.com ，发现有问题直接问负责人省的吃哑巴亏。
-* [知乎合集：有哪些公司给你留下「还好没去这家公司」的印象？](https://www.zhihu.com/question/38718862)
+* Suggesting that everyone should do some research when you are choosing a company http://tianyancha.com , and if you found some issues just ask the person in charge in case of suffering losses
+* [Zhihu Collection：有哪些公司给你留下「还好没去这家公司」的印象？](https://www.zhihu.com/question/38718862)
 
 
 ### 当技术合伙人建议
