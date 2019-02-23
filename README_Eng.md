@@ -1,6 +1,6 @@
 # Job Blacklist for Programmers
 
-:snail:I'am also one of the netizens，the truth behinds should be judged by yourselves. I just simply collect some links, please don't be a troll even if you don't like it. Welcome to follow me at [Weibo](http://weibo.com/woniuppp) and propose [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) to participate and maintain this list.
+:snail:I'am also one of the spectators，the truth behinds should be judged by yourselves. I just simply collect some links, please don't be a troll even if you don't like it. Welcome to follow me at [Weibo](http://weibo.com/woniuppp) and propose [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) to participate and maintain this list.
 
 
 Some recent events have made me realised that some of our associates are notoriou, which needs to be recorded to remind others when recruiting.
@@ -72,12 +72,12 @@ At first, every programmer, every company has its improper places. However, if w
     - [How do you think that Mingxingyichu has money to build the VR fitting room, but withhold salary of the employee more than one year?](https://maimai.cn/article/topic?id=21179)
     - Tencent News
         - [Huang Xiaoming invested Mingxingyichu was reported for witholding salary for a long time. The employees had turned to the law to solve the problem.](https://xw.qq.com/tech/20170904089402/TEC2017090408940200)
-        - [欠款欠薪没融资，明星衣橱老板要携小三跑路了？](https://xw.qq.com/cmsid/20170906A02KJP00)
-    - 新浪财经
-        - [明星衣橱生死局:拖欠员工工资 认为讨薪的是落井下石|融资|张晨|浙江永强_新浪财经_新浪网](http://finance.sina.com.cn/chanjing/gsnews/2017-09-26/doc-ifymenmt6937590.shtml)
+        - [Arrearage, withholding wage, no financing，the boss of Mingxingyichu is going to run with his mistress?](https://xw.qq.com/cmsid/20170906A02KJP00)
+    - Sina Finance
+        - [Mingxingyichu's decisive game:Arrears of wages, considering the people who demand unpaid salaries are kicking them when they are down|Financing|Chen Zhang|Zhejiang Yongqiang_Sina Finance_Sina](http://finance.sina.com.cn/chanjing/gsnews/2017-09-26/doc-ifymenmt6937590.shtml)
 
 
-### 技术合伙人
+### Technical Partner
 
 * 青云
     - [知乎：你如何看青云员工期权合同欺诈事件？](https://www.zhihu.com/question/47442360)
